@@ -6,3 +6,4 @@ The modules are as follows:
 2. OOP design and Collections - Test2 and technical interview;
 3. Threads and SQL - Test 3;
 4. Web development and Spring framework - Final Project and presentation;
+Link to final project: https://github.com/YaniYakimov/YouTube
